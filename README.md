@@ -1,16 +1,18 @@
 # ☕ Q.Lab - Artisan Coffee Shop Web Application
 
+[![Live Demo](https://img.shields.io/badge/Vercel-Live_Demo-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://coffeeweb-navy.vercel.app)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/irmakKartal/Coffee-website)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Swiper](https://img.shields.io/badge/Swiper_Slider-6332F6?style=for-the-badge&logo=swiper&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel_Ready-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 A modern, responsive, and visually immersive front-end web application for **Q.Lab Artisan Coffee**. Designed and engineered with semantic HTML5, modern CSS3 styling, vanilla JavaScript interactions, and optimized for seamless cross-device performance.
 
-**Author:** Irmak Kartalkayası  
-**Demo Status:** Vercel-Ready (Production Configuration Included)
+> 🚀 **Live Interactive Demo:** [https://coffeeweb-navy.vercel.app](https://coffeeweb-navy.vercel.app)  
+> 👤 **Author:** [Irmak Kartalkayası](https://github.com/irmakKartal)  
+> ⚡ **Deployment:** Deployed globally with edge performance on Vercel  
 
 ---
 
@@ -19,13 +21,14 @@ A modern, responsive, and visually immersive front-end web application for **Q.L
 **Q.Lab** is an artisanal coffee house digital storefront providing customers with an intuitive browsing experience, digital menu exploration, interactive customer testimonials, table booking, and order inquiry workflows.
 
 ### 🌟 Key Functional Features
-* **Modern Hero Showcase:** Visual typography and call-to-action routing users directly into review and order channels.
-* **Service Highlight Cards:** Interactive presentation of coffee varieties, bean roasting techniques, breakfast pairings, and expedited delivery services.
-* **Curated Product Showcase:** Detailed product cards highlighting specialty roasts, roast levels, flavor notes, and pricing.
-* **Barista & Culinary Team Spotlight:** Meet the artisanal roasters and master baristas behind the craft.
-* **Dynamic Customer Reviews:** Swiper.js-powered responsive carousel displaying verified customer testimonials and star ratings with autoplay and touch gestures.
-* **Interactive Reservation System:** Interactive table booking interface with dynamic validation.
-* **Comprehensive Contact & Order Center (`contact.html`):** Online order request portal with form validation, embedded multimedia, and direct customer care channels.
+* 🚀 **Instant Live Experience:** Production deployment on Vercel CDN with lightning-fast initial load times.
+* ☕ **Modern Hero Showcase:** Visual typography and call-to-action routing users directly into review and order channels.
+* 🎯 **Service Highlight Cards:** Interactive presentation of coffee varieties, bean roasting techniques, breakfast pairings, and expedited delivery services.
+* 📦 **Curated Product Showcase:** Detailed product cards highlighting specialty roasts, roast levels, flavor notes, and pricing.
+* 👥 **Barista & Culinary Team Spotlight:** Meet the artisanal roasters and master baristas behind the craft.
+* ⭐ **Dynamic Customer Reviews:** Swiper.js-powered responsive carousel displaying verified customer testimonials and star ratings with autoplay and touch gestures.
+* 📅 **Interactive Reservation System:** Interactive table booking interface with dynamic validation.
+* 📩 **Comprehensive Contact & Order Center (`contact.html`):** Online order request portal with form validation, embedded multimedia, and direct customer care channels.
 
 ---
 
@@ -70,6 +73,14 @@ Run directly in your terminal:
 python3 -m http.server 8000
 ```
 Then visit `http://localhost:8000` in your web browser.
+
+---
+
+## 🌐 Live Deployment
+
+The project is continuously hosted on Vercel:
+* **Production URL:** [https://coffeeweb-navy.vercel.app](https://coffeeweb-navy.vercel.app)
+* **Configuration:** Ready-to-go `vercel.json` with clean URLs and optimized static serving.
 
 ---
 
