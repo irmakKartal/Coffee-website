@@ -76,11 +76,10 @@ Then visit `http://localhost:8000` in your web browser.
 
 ---
 
-## 🌐 Live Deployment
+## 🌐 Live Demo
 
-The project is continuously hosted on Vercel:
-* **Production URL:** [https://coffeeweb-navy.vercel.app](https://coffeeweb-navy.vercel.app)
-* **Configuration:** Ready-to-go `vercel.json` with clean URLs and optimized static serving.
+You can explore the live website here:
+* **Official URL:** [https://coffeeweb-navy.vercel.app](https://coffeeweb-navy.vercel.app)
 
 ---
 
