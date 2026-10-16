@@ -73,28 +73,5 @@ Then visit `http://localhost:8000` in your web browser.
 
 ---
 
-## 🌐 Deploy to Vercel (1-Click)
-
-This project includes a production-ready `vercel.json` configuration for instant deployment on Vercel:
-
-1. Import this repository into [Vercel](https://vercel.com/new).
-2. Leave all default settings as **Other** (Root directory: `./`).
-3. Click **Deploy**. Your custom live URL will be active in seconds.
-
----
-
-## 📄 How to Feature This in Your CV / Resume
-
-```text
-Q.Lab Coffee Shop Web Application | HTML5, CSS3, JavaScript (ES6+), Swiper.js, Vercel
-[GitHub: github.com/irmakKartal/Coffee-website]
-• Engineered a responsive commercial front-end web application for an artisan coffee house featuring product showcases and booking workflows.
-• Implemented mobile-first layouts utilizing CSS Grid, Flexbox, and Boxicons with smooth micro-interactions across all screen breakpoints.
-• Built dynamic client-side interactions with vanilla JavaScript, including a Swiper.js carousel for customer reviews and form validation.
-• Configured automated clean-URL deployment architecture for high-performance hosting on Vercel CDN.
-```
-
----
-
 ## 📄 License
 This project is open-source and available under the [MIT License](LICENSE).
